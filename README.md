@@ -2,4 +2,4 @@
 
 言語処理100本ノックをRubyで解いてみる。
 
-http://www.cl.ecei.tohoku.ac.jp/nlp100/#data
+http://www.cl.ecei.tohoku.ac.jp/nlp100/
